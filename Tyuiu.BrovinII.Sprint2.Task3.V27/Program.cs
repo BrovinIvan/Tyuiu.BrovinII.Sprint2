@@ -8,8 +8,8 @@ namespace Tyuiu.BrovinII.Sprint2.Task3.V27
         {
             DataService ds = new DataService();
             Console.WriteLine("Спринт 2");
-            Console.WriteLine("Вариант 14");
-            Console.WriteLine("Задание 2");
+            Console.WriteLine("Вариант 27");
+            Console.WriteLine("Задание 3");
             Console.WriteLine("Выполнил Бровин Иван Ильич / ПКТБ-26-1");
             Console.WriteLine("Введите x");
             int x = int.Parse(Console.ReadLine());
