@@ -8,7 +8,7 @@ namespace Tyuiu.BrovinII.Sprint2.Task5.V2.Test
         public void TestMethod1()
         {
             DataService ds = new DataService();
-            Assert.AreEqual("Зима", ds.FindMonthSeason(1));
+            Assert.AreEqual("зима", ds.FindMonthSeason(1));
 
         }
     }
