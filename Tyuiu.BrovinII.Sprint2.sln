@@ -35,6 +35,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.BrovinII.Sprint2.Task
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.BrovinII.Sprint2.Task3.V27.Test", "Tyuiu.BrovinII.Sprint2.Task3.V27.Test\Tyuiu.BrovinII.Sprint2.Task3.V27.Test.csproj", "{FB00584E-D1F3-43CF-971E-F638AF9F3C9E}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task4", "Task4", "{1C419740-8ADB-43BB-8F1E-B87063EE0C31}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
