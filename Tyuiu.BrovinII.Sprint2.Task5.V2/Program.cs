@@ -13,6 +13,9 @@ namespace Tyuiu.BrovinII.Sprint2.Task5.V2
             Console.WriteLine("Выполнил Бровин Иван Ильич / ПКТБ-26-1");
             Console.WriteLine("Введите номер месяца");
             int x = int.Parse(Console.ReadLine());
+            if (x<1 || x>12) {
+                Console.WriteLine("Невер знач");
+            }
             Console.WriteLine("Результат: " + ds.FindMonthSeason(x));
         }
     }
